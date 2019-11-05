@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item1"
+        android:title="Match Stats"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/item2"
+        android:title="Player Stats"
+        app:showAsAction="never">
+
+        <menu>
+
+            <item
+                android:id="@+id/subitem1"
+                android:title="Home Team Stats" />
+
+            <item
+                android:id="@+id/subitem2"
+                android:title="Away Team Stats" />
+
+        </menu>
+
+    </item>
+
+</menu>
