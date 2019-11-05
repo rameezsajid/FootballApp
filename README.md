@@ -1,4 +1,4 @@
-# Football App
+# Football App - Android Application
 - Built with Java
 - Android Studio
 - JSON Restful API
