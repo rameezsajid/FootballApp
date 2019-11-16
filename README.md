@@ -6,6 +6,7 @@
 - API not included in this demo
 - MVC Design Pattern
 - XML
+- HTTP Requests used to pull data from URL
 
 # Screenshots of Application
 
