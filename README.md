@@ -3,7 +3,7 @@
 - Android Studio
 - Android SDK
 - Restful API in JSON Format
-- This app displays in game football commentary and player stats by downloading data from API
+- This application displays in game football commentary and player stats by downloading data from API
 - API not included in this demo
 - MVC Design Pattern used
 - XML
