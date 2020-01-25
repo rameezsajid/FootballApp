@@ -5,7 +5,6 @@
 - Restful API in JSON Format
 - This application displays in game football commentary and player stats by downloading data from API
 - MVC Design Pattern used
-- XML
 - API not included in this demo
 
 # Screenshots of Application
