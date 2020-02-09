@@ -1,7 +1,7 @@
 # Football App
 - Android Application
 - Built using Java
-- Android Studio 
+- Android Studio IDE
 - Android SDK
 - Restful API in JSON Format
 - This application displays in game football commentary and player stats by downloading data from API
