@@ -2,7 +2,6 @@
 - Android Application
 - Built using Java
 - Android Studio
-- Android SDK
 - Restful API in JSON Format
 - This application displays in game football commentary and player stats by downloading data from API
 - MVC Design Pattern used
