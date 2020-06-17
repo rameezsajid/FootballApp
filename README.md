@@ -1,5 +1,4 @@
 # Football App
-- Android Application
 - Android SDK
 - Built using Java
 - Android Studio IDE
